@@ -1,5 +1,5 @@
  # 💫 About Me:
-### Seja bem-vindo, eu sou o Vinicius Soares, estudante em técnico de T.I! Desenvolvimento Web & Mobile. 
+### Seja bem-vindo, eu sou o Vinicius Soares, estudante em técnico de T.I! Desenvolvedor Web. 
 
 
 # 💻 Tech Stack:
