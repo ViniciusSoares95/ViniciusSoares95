@@ -1,5 +1,5 @@
  # 💫 About Me:
-### Seja bem-vindo, eu sou o Vinicius Soares, estudante em técnico de T.I! Desenvolvedor Web. 
+### Seja bem-vindo, eu sou o Vinicius Soares, Desenvolvedor Web | Especialista em WordPress com PHP | HTML | CSS | JavaScript | MySQL | API REST | Docker. 
 
 
 # 💻 Tech Stack:
